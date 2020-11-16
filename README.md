@@ -1,0 +1,2 @@
+# springcloud-config
+用于SpringCloud学习Config组件的远程配置仓库
